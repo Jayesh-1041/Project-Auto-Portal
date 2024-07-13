@@ -13,7 +13,6 @@ body{
 .conteiner{
     height: 100%;
     width: 100%;
-    /* padding: 10px; */
 }
 
 /* header start */
@@ -24,9 +23,7 @@ body{
     font-size: 1.3rem;
     display: flex;
     justify-content: space-between;
-    /* align-items: center; */
-    /* text-align: center; */
-    background-color: rgba(79, 109, 99, 0.795);
+    background-color: rgb(79, 109, 99);
     padding: 20px 50px 20px 50px;
     
 }
